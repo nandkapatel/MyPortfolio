@@ -1,0 +1,109 @@
+body {
+  background-color: rgba(0, 0, 0, 0.792);
+}
+section {
+  margin: 0px;
+  padding: 0px;
+}
+.guestguideimg {
+  background-image: url(../images/1.png);
+  height: 1020px;
+  background-repeat: no-repeat;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+.firstthingsfirstimg {
+  background-image: url(../images/2.png);
+  height: 1020px;
+  background-repeat: no-repeat;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+.bathroomessentials {
+  background-image: url(../images/3.png);
+  height: 1020px;
+  background-repeat: no-repeat;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+.foryourcomfort {
+  background-image: url(../images/4.png);
+  height: 1020px;
+  background-repeat: no-repeat;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+.guest {
+  padding-left: 220px;
+  padding-top: 85px;
+  font-size: 85px;
+  font-family: "Prata", serif;
+  color: black;
+  /* line-height: 1.2; */
+}
+.guid {
+  padding-left: 220px;
+  /* padding-top: 0px; */
+  font-size: 85px;
+  line-height: 0.9;
+  font-family: "Prata", serif;
+  color: black;
+}
+.guestguidtext {
+  padding-left: 340px;
+  line-height: 4;
+  font-size: 21px;
+  font-weight: 300;
+  font-family: "Josefin Sans", sans-serif;
+  /* font-weight: 400; */
+  color: black;
+}
+.firstthingsfirsttext {
+  font-family: "Prata", serif;
+  padding-top: 50px;
+  /* padding-left: 50px; */
+  color: black;
+}
+.firstthingsfirstpagetext {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.bathroomessentialstext {
+  font-family: "Prata", serif;
+  padding-top: 50px;
+  padding-left: 25px;
+  color: black;
+}
+.text {
+  padding-top: 25px;
+  padding-left: 25px;
+  color: black;
+}
+.bathroomessentialspagetext {
+  font-family: "Josefin Sans", sans-serif;
+  color: black;
+}
+.textsize {
+  font-size: 20px;
+}
+.comforttext {
+  font-family: "Josefin Sans", sans-serif;
+  line-height: 26px;
+  font-size: 25px;
+  font-weight: 300;
+  color: black;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  text-justify: auto;
+}
